@@ -1,0 +1,9 @@
+D:\new programs\Encryption\Encryption\bin\Debug\Encryption.exe.config
+D:\new programs\Encryption\Encryption\bin\Debug\Encryption.exe
+D:\new programs\Encryption\Encryption\bin\Debug\Encryption.pdb
+D:\new programs\Encryption\Encryption\obj\Debug\Encryption.csprojResolveAssemblyReference.cache
+D:\new programs\Encryption\Encryption\obj\Debug\Encryption.Encrypter.resources
+D:\new programs\Encryption\Encryption\obj\Debug\Encryption.Properties.Resources.resources
+D:\new programs\Encryption\Encryption\obj\Debug\Encryption.csproj.GenerateResource.Cache
+D:\new programs\Encryption\Encryption\obj\Debug\Encryption.exe
+D:\new programs\Encryption\Encryption\obj\Debug\Encryption.pdb
